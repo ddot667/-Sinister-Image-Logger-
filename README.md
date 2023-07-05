@@ -1,1 +1,1 @@
-A beaming method where if somone vlivks a image u get the cookie
+A beaming method where if somone clicks a image u get the cookie
